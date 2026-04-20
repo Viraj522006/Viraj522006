@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Viraj Shinde 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Android+Developer;AI+%26+ML+Explorer;Open+to+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Android+Developer;AI+%26+ML+Explorer;Open+to+Opportunities!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 🌐 Skilled in the **MERN Stack** — building responsive, real-world applications  
 📱 Experienced in **Android Development** with Java & Firebase  
 🤖 Exploring **AI/ML** — worked with BERT, FastAPI & Python for real-world solutions  
-📍 Satara, Maharashtra, India  
+📍 Sangli, Maharashtra, India  
 
 ---
 
