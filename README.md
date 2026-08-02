@@ -152,5 +152,5 @@
 ---
 
 <p align="center">
-  <i>"Code is not just syntax — it's the language of solutions."</i> 💜
+  <i>"Code is not just syntax — it's the language of solutions. is it"</i> 💜
 </p>
