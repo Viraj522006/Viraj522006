@@ -98,7 +98,7 @@
 
 | Degree | Institution | Score | Year |
 |--------|------------|-------|------|
-| 🎓 B.Tech — Information Technology | Walchand College of Engineering, Sangli | CGPA: 8.94 / 10 | 2025 – 2028 |
+| 🎓 B.Tech — Information Technology | Walchand College of Engineering, Sangli | CGPA: 8.89 / 10 | 2025 – 2028 |
 | 📜 Diploma — Computer Engineering | Government Polytechnic, Miraj | 95.20% | 2022 – 2025 |
 
 ---
