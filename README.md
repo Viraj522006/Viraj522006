@@ -90,7 +90,6 @@
 **🐍 Python Intern — Orbit Solutions** *(2024)*  
 - Developed Python programs for file handling, automation & scripting  
 - Applied OOP & data structures in real-world mini-projects  
-- Debugged and tested scripts to improve code reliability
 
 ---
 
