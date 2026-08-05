@@ -17,7 +17,7 @@
 🎓 **B.Tech in Information Technology** @ Walchand College of Engineering, Sangli *(CGPA: 8.94/10)*  
 💡 Second-year IT student passionate about building scalable web apps & intelligent systems  
 🌐 Skilled in the **MERN Stack** — building responsive, real-world applications  
-📱 Experienced in **Android Development** with Java & Firebase  
+📱 Experienced in **Android Development** with Java & Firebase Database
 🤖 Exploring **AI/ML** — worked with BERT, FastAPI & Python for real-world solutions  
 📍 Sangli, Maharashtra, India  
 
